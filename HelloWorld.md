@@ -1,1 +1,0 @@
-## This is the markdown file to be submitted for the coursera assignment
